@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Var_Class_HW", "Var_Class_HW\Var_Class_HW.vcxproj", "{2627994B-B3DF-448B-8988-B5DA3AA79FA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{355B785A-8B6E-43FF-A09E-87DA618D18B3}"
+	ProjectSection(SolutionItems) = preProject
+		Var_Class_HW\String.cpp = Var_Class_HW\String.cpp
+		Var_Class_HW\String.h = Var_Class_HW\String.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2627994B-B3DF-448B-8988-B5DA3AA79FA7}.Debug|x64.ActiveCfg = Debug|x64
+		{2627994B-B3DF-448B-8988-B5DA3AA79FA7}.Debug|x64.Build.0 = Debug|x64
+		{2627994B-B3DF-448B-8988-B5DA3AA79FA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{2627994B-B3DF-448B-8988-B5DA3AA79FA7}.Debug|x86.Build.0 = Debug|Win32
+		{2627994B-B3DF-448B-8988-B5DA3AA79FA7}.Release|x64.ActiveCfg = Release|x64
+		{2627994B-B3DF-448B-8988-B5DA3AA79FA7}.Release|x64.Build.0 = Release|x64
+		{2627994B-B3DF-448B-8988-B5DA3AA79FA7}.Release|x86.ActiveCfg = Release|Win32
+		{2627994B-B3DF-448B-8988-B5DA3AA79FA7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADCBDF5-DC76-467F-9714-754E5CE895FB}
+	EndGlobalSection
+EndGlobal
